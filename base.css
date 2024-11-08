@@ -53,7 +53,9 @@ h1 {
     height: 180px;
     border-radius: 10px;
     background-color: rgb(185, 185, 185);
+    background-image: url(redes.jpg);
 }
+
 
 .description {
     width: 45%;
